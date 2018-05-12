@@ -1,0 +1,28 @@
+_repo: God-and-Mr.-Wells--A-Critical-Examination-of-God-the-Invisible-King-_30882
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Archer, William
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '3729'
+    url: http://www.gutenberg.org/2009/agents/3729
+    wikipedia: http://en.wikipedia.org/wiki/William_Archer_(critic)
+description: ''
+gutenberg_issued: '2010-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30882'
+  lccn: '17024674'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Wells, H. G. (Herbert George), 1866-1946. God the invisible king'
+title: 'God and Mr. Wells: A Critical Examination of ''God the Invisible King'''
+url: http://www.gutenberg.org/ebooks/30882
